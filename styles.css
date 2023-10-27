@@ -1,0 +1,167 @@
+*{
+ margin: 0;
+ padding: 0;
+ box-sizing: border-box;
+}
+
+.main-form {
+ width: 60%;
+ height:80vh;
+ margin: auto;
+ border-radius: 20px;
+ border: 2px solid;
+ display: flex;
+ margin-top: 80px;
+ 
+}
+.result {
+ background-color: navy;
+ border-radius: 20px;
+ padding: 30px;
+ width: 50%;
+}
+.result-contents {
+ display: flex;
+ flex-direction: column;
+ align-items: center;
+ text-align: center;
+ gap: 50px;
+}
+.result-display{
+ border-radius: 50%;
+ width: 160px;
+ height: 160px;
+ background-color: darkslateblue;
+ text-align: center;
+}
+.summary {
+ background-color: white;
+ margin: auto;
+ 
+}
+.all-scores {
+ display: flex;
+ flex-direction: column;
+ gap: 7px;
+ width: 350px;
+}
+.reaction {
+ background-color:lightpink;
+ border-radius: 10px;
+ /* width: 350px; */
+ display: flex;
+ padding: 10px;
+ justify-content: space-between;
+}
+.memory {
+ background-color: darkkhaki;
+ border-radius: 10px;
+ /* width: 350px; */
+ display: flex;
+ padding: 10px;
+ justify-content: space-between;
+}
+.verbal{
+ background-color: darkseagreen;
+ border-radius: 10px;
+  /* width: 350px; */
+  display: flex;
+  padding: 10px;
+  justify-content: space-between;
+}
+.visual{
+ background-color: darkorchid;
+  border-radius: 10px;
+  /* width: 350px; */
+  display: flex;
+  padding: 10px;
+  justify-content: space-between;
+}
+.button{
+ margin: 40px 0px;
+padding: 10px;
+border-radius: 10px;
+border: 0ch;
+color: white;
+background-color: darkblue;
+align-items: center;
+}
+
+
+
+/* .form-background{
+ background-color: white;
+ margin: auto;
+}
+
+.main-form{
+ margin: center;
+ background-color: white;
+ margin-top: 10em;
+ margin-right: 10em;
+ margin-left: 10em;
+ margin-bottom: 10em;
+}
+
+.form-content{
+ background-color: azure;
+ border-radius: 10%;
+}
+
+.head-box {
+ background-color: blue;
+ border-radius: 100%;
+ margin-left: 5em;
+ margin-right: 5em;
+}
+.first-box{
+background-color: darkblue;
+margin-right: 50%;
+text-align: center;
+border-radius: 10%;
+}
+
+.second-box {
+margin-left: 60%;
+margin-top: -330px;
+}
+
+.form-btn {
+ margin: 30px 15px;
+ padding: 10px;
+ width: 145px;
+ border-radius: 20px;
+ border: 0ch;
+ color: #fff;
+ background-color: darkblue;
+}
+
+#text-main{
+font-size: 80px;
+margin-bottom: 1px;
+margin-top: 30px;
+padding-top: 20px;
+}
+
+#text-sub{
+font-size: large;
+margin-top: 1px;
+padding-bottom: 20px;
+}
+
+#paragraph1{
+ padding-bottom: 20px;
+}
+
+#heading1{
+ padding-top: 20px;
+}
+
+.score{
+ margin-top: 5px;
+ margin-left: 50%;
+}
+
+.summary{
+
+} */
